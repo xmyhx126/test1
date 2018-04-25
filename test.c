@@ -12,3 +12,7 @@ int sum(int sum1, int sum2)
 	return (sum1 + sum2);
 }
 
+int sub(int sub1, int sub2)
+{
+	return (sub1 - sub2);
+}
